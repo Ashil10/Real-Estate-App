@@ -1,10 +1,10 @@
-# 🏡 Real Estate Web App (Angular)
+# 🏡 Real Estate Web App (Angular 20)
 
 This is a modern real estate listing web application built with the latest version of Angular. The app allows users to view properties with dynamic cards and images, styled using Bootstrap.
 
 ## 📦 Tech Stack
 
-- **Frontend:** Angular 17 (Standalone Components)
+- **Frontend:** Angular 20 (Standalone Components)
 - **Styling:** Bootstrap 5
 - **Language:** TypeScript
 - **Tooling:** Angular CLI, Vite
